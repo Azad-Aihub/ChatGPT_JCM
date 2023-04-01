@@ -4,7 +4,7 @@
       <el-header>
         <transition name="el-zoom-in-top">
           <div v-show="show" class="transition-box">
-            <h3>JUN CHEN MO</h3>
+            <h3>使用小提示</h3>
           </div>
         </transition>
       </el-header>
@@ -12,11 +12,10 @@
         <transition name="el-zoom-in-top">
           <div v-show="show" class="transition-box">
             <span>
-              很感谢大家对我的支持，现已接入OpenAI的Models API、Completions API、Chat API、Audio API、Images API、Files API、Fine-tunes API后续会添加更多有意思的功能进去，希望大家给我的GitHub点个小小的星星，
-              大家如果有什么好的想法可以在GitHub中提出来，我们一起来完善这个页面。
+              本站仅供<a href="https://t.zsxq.com/0cy1WzxXu" target="_blank">【不止GPT】星球成员</a>内部使用。<br>现已接入OpenAI的Models API、Completions API、Chat API、Audio API、Images API、Files API、Fine-tunes API等。<br>右侧填入API KEY后，“模型”处自动检索当前可用模型。<br>需要保存当前会话内容，请点击“创建会话”--“导出会话”。
             </span>
             <div>
-              <a href="https://space.bilibili.com/326625155?spm_id_from=333.337.0.0">BliBili</a>---<a href="https://github.com/202252197/ChatGPT_JCM">GitHub</a>
+              <a href="http://www.azad.asia/" target="_blank">我的主页</a>---<a href="https://faka.azad.asia/" target="_blank">我的小店</a>
             </div>
           </div>
         </transition>
