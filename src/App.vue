@@ -31,7 +31,8 @@ export default {
 * {
   padding: 0;
   margin: 0;
-  font-family: 'SSFY';
+  font-family: 'LXGW WenKai';
+  font-weight:bold;
 }
 
 
